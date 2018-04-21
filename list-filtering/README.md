@@ -2,5 +2,4 @@ In this kata you will create a function that takes a list of non-negative intege
 
 it went well
 
-https://www.codewars.com/kata/list-filtering/train/javascript
-
+https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/solutions/solutions
